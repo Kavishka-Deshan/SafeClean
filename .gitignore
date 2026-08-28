@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller output
+build/
+dist/
+*.manifest
+
+# Generated icon (rebuild with tools/make_icon.py)
+safeclean/assets/icon.png
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
