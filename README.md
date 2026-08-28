@@ -168,7 +168,7 @@ right, accept the UAC prompt, and they become available.
 first statement is a guard check. There is no bypass flag and no code path
 around it.
 
-Four independent checks must all pass:
+Four independent checks must all pass :
 
 **1. Default deny under browser profiles.** Anything inside a browser's
 user-data folder is refused unless it matches a short allowlist of cache
